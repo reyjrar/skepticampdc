@@ -2,6 +2,7 @@
 title: 'What is a &#8220;Skeptic&#8221;?'
 author: briandgregory
 layout: page
+order: 1
 ---
 In short, a skeptic is anyone who wishes to base their beliefs on evidence. Dr. Steven Novella of [The Skeptics Guide to the Universe][1] podcast offers a complete definition below:
 

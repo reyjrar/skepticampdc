@@ -2,9 +2,10 @@
 title: SkeptiCamp DC 2010
 author: Brad Lhotsky
 layout: default
+order: 9
 ---
 <div>
-  <img class="aligncenter size-full wp-image-105" title="SkeptiCamp2010" src="/content/2010/03/SkeptiCamp2010.jpg" alt="" width="730" height="318" />
+  <img class="aligncenter size-full wp-image-105" title="SkeptiCamp2010" src="/content/SkeptiCampDC2010.jpg" alt="" width="730" height="318" />
 </div>
 
 <div>
