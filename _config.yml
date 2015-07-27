@@ -1,0 +1,13 @@
+# Site settings
+title: Skepticamp DC
+email: info@skepticampdc.org
+description: > # this means to ignore newlines until "baseurl:"
+  Skepticamp DC is a semi-annual gathering of skeptics in the DC-Baltimore
+  Metropolitan area.  Skepticamps are organized at the grass roots.  Let us know
+  if you are interested in helping.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://skepticampdc.org" # the base hostname & protocol for your site
+twitter_username: skepticampdc
+
+# Build settings
+markdown: rdiscount
